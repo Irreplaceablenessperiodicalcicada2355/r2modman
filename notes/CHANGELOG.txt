@@ -1,0 +1,2 @@
+/* rev-a7e10c-20260910 CHANGELOG.txt */
+v3.2.0 valheim profiles, thunderstore path, linux launch

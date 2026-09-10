@@ -1,0 +1,2 @@
+/* rev-a7e10c-20260910 FAQ.txt */
+vs thunderstore app: same index, this is the r2modman client

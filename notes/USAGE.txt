@@ -1,0 +1,2 @@
+/* rev-a7e10c-20260910 USAGE.txt */
+extract zip, pick valheim, install from thunderstore, launch

@@ -1,0 +1,2 @@
+/* rev-a7e10c-20260910 BepInEx.txt */
+bepinex pack path for valheim
